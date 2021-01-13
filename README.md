@@ -41,7 +41,7 @@ Battery voltage and current sensors,
 
 Type-C connector for reading logged data,
 
-433mHz LO-RA for long-range wireless communication with U.FL connection,
+433mHz LoRa for long-range wireless communication with U.FL connection,
 
 Notification LED's for memory write and wireless communication,
 
