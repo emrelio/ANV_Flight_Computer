@@ -1,8 +1,14 @@
 Flight computer design for experimental model rocket flights.
 
+
+
 I design this PCB for TVC of low power rockets.
 
+
+
 Specs:
+
+
 3-12V battery input,
 
 Reverse battery protection,
@@ -46,6 +52,9 @@ Screw terminal connector for power in-outs,
 CAN-Bus connector for expansions in future,
 
 M3 screw holes are connected to (BATT+, BATT-(GND), CAN-H, CAN-L).
+
+
+
 
 
 Designed in KiCAD nightly.
