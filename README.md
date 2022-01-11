@@ -72,7 +72,7 @@ USB VCP is working.<br />
 Current sensor is working.<br />
 Mosfet feedback is working.<br />
 Flash memory is working, but library is not fully compatible.<br />
-Servo is working with integrated 5V regulator. Voltage might drop on load.
+Servo is working with integrated 5V regulator. Voltage might drop on load.  
 <br />
 To-Do :
 <br />
