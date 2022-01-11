@@ -64,17 +64,17 @@ Designed in KiCAD nightly.
 <br />
 <br />
 Log:
-Hall effect sensor out pin needs pull-up resistor, not pull-down. So It doesn't work.
-3.3V regulator acting abnormally. I might overheated it while soldering. Will try it on another board.
-Barometers and IMU is working.
-USB VCP is working.
-Current sensor is working.
-Mosfet feedback is working.
-Flash memory is working, but library is not fully compatible.
+Hall effect sensor out pin needs pull-up resistor, not pull-down. So It doesn't work.<br />
+3.3V regulator acting abnormally. I might overheated it while soldering. Will try it on another board.<br />
+Barometers and IMU is working.<br />
+USB VCP is working.<br />
+Current sensor is working.<br />
+Mosfet feedback is working.<br />
+Flash memory is working, but library is not fully compatible.<br />
+Servo is working with integrated 5V regulator. Voltage might drop on load.
 <br />
 To-Do :
 Lora
 Can-Bus
-Servo
 <br />
 <br />
