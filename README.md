@@ -1,3 +1,6 @@
+![alt text](https://github.com/emrelio/ANV_Flight_Computer/blob/main/ANV_V1.2/Medya%20Dosyalar%C4%B1/ANV1.jpg?raw=true)
+
+
 Flight computer design for experimental model rocket flights.
 
 
