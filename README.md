@@ -67,11 +67,11 @@ Log:
   
 Hall effect sensor out pin needs pull-up resistor, not pull-down. So It doesn't work.  
 3.3V regulator acting abnormally. I might overheated it while soldering. Will try it on another board.  
-Barometers and IMU is working.  
+IMU and Barometers are working.  
 USB VCP is working.  
 Current sensor is working.  
 Mosfet feedback is working.  
-Flash memory is working, but library is not fully compatible.  
+Flash memory is working, logging algorithm is ready.  
 Servo is working with integrated 5V regulator. Voltage might drop on load.  
   
 To-Do :
